@@ -1,0 +1,7 @@
+Code Review for Max-Weaver
+
+The author’s GUI is a little hard to follow without knowing what the data in the database looks like and I think displaying the data in a datagrid could help this. Overall, the rest of the GUI is good and using the Group Boxes to keep controls together makes the program look clean.
+
+While testing the program it crashed when incorrect data such as strings were entered into the productNum, minPrice, maxPrice, and units text box controls. The author could improve the stability of the program by catching incorrect data entered by users. In the search by description group I think a different output in the listbox could be beneficial when I typed "Parka" to search for that item the ListBox just displayed "Parka" with no additional information on the product.
+
+When reviewing the code, I found that the author documented the code very well and the comments were easy to follow and explained the code in an understandable way which I appreciated. The code is clean, and I found no dead code while looking over it. Overall, I think the author’s code is easy to follow and well written, I would just suggest for them to add more error handling and improve the output the user retrieves from the database.
