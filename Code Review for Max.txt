@@ -1,0 +1,3 @@
+There is plenty of documentation in this program and you can understand it well.GUI design for "Search For A Product By Product Number" is well designed and I love the layout for it. Good use of groupBoxes I need to implement more of those in my programs. 
+
+Some things I noticed well testing out this application is that it will crash if "Search For A Product By Product Number "is left empty or the user enters invalid input, same with "Search For products By units on hand", and "Search For Products by Price". This can be fixed with a try-catch statement. Also for "Search by Product By Description" if keep clicking Search it will just keep adding to the list without clearing out old records. If you leave it empty it will display every item in the database as well. 
